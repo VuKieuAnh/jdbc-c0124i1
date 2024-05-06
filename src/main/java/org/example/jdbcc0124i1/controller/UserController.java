@@ -1,8 +1,8 @@
 package org.example.jdbcc0124i1.controller;
 
 import org.example.jdbcc0124i1.model.User;
-import org.example.jdbcc0124i1.service.IUserDAO;
-import org.example.jdbcc0124i1.service.UserDAO;
+import org.example.jdbcc0124i1.service.user.IUserDAO;
+import org.example.jdbcc0124i1.service.user.UserDAO;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
