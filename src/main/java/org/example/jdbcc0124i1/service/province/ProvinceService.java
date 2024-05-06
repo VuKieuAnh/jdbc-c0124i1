@@ -14,7 +14,7 @@ public class ProvinceService implements IProvinceService {
 
     @Override
     public void insert(Province object) throws SQLException {
-
+        System.out.println("danh sach tinh");
     }
 
     @Override
